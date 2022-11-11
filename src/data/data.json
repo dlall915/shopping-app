@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "id": 5,
+      "name": "Dairy",
+      "color": "gray",
+      "show": true
+    },
+    {
+      "id": 3,
+      "name": "Vegetables",
+      "color": "red",
+      "show": true
+    },
+    {
+      "id": 1,
+      "name": "Fruit",
+      "color": "orange",
+      "show": true
+    },
+    {
+      "id": 2,
+      "name": "Grains",
+      "color": "brown",
+      "show": true
+    },
+    {
+      "id": 4,
+      "name": "Seafood",
+      "color": "blue",
+      "show": true
+    }
+  ],
+  "items": [
+    {
+      "name": "Milk",
+      "categoryId": 5,
+      "quantity": 1,
+      "isDone": false
+    },
+    {
+      "name": "Carrot",
+      "categoryId": 3,
+      "quantity": 1,
+      "isDone": false
+    },
+    {
+      "name": "Tomato",
+      "categoryId": 3,
+      "quantity": 1,
+      "isDone": false
+    },
+    {
+      "name": "Apple",
+      "categoryId": 1,
+      "quantity": 1,
+      "isDone": false
+    },
+    {
+      "name": "Bread",
+      "categoryId": 2,
+      "quantity": 1,
+      "isDone": false
+    },
+    {
+      "name": "Bagel",
+      "categoryId": 2,
+      "quantity": 1,
+      "isDone": false
+    }
+  ]
+}
